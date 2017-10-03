@@ -1,0 +1,4 @@
+Steps to run C4.5 and Naive Bayes source files
+1.Input training, testing, and output file names into the corresponding variables in the beginning of the files.
+2.Run the files.
+3.Output files will be created.
